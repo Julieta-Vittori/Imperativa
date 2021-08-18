@@ -7,8 +7,15 @@ let horarioDeSalida = 8.30;
 let busACoger = "Ruta 4";
 console.log(tomoCafe, "\n"+ lavoLosDientes, "\n"+ horarioDeSalida, "\n"+ busACoger, "\n");
 
-//Actividad 2
-
+//Actividad 2 "Sacar a pasear al perro"
+let checkBolsas = true;
+let nombrePerro = "Zeus";
+let llamoPerro = true;
+let colocoCorrea = true;
+let tiempoPaseo = 30; //minutos
+let juguetes = "huesito";
+let vuelvoACasa = true;
+console.log(checkBolsas, "\n"+ nombrePerro,  llamoPerro, "\n"+ colocoCorrea, "\n"+ tiempoPaseo, "\n"+ juguetes, "\n"+ vuelvoACasa );
 
 //Desafío extra
 
